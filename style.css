@@ -1,0 +1,31 @@
+
+.under{
+    text-decoration: underline;
+    color: red;
+    font-weight: bold;
+}
+
+.prog{
+    color: green;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.result p{
+    font-weight: bold;
+    color: red;
+    margin-left: 20px;
+}
+
+.maths p{
+    color: brown;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.out{
+    font-weight: bold;
+    color: red;
+    margin-left: 20px;
+
+}
